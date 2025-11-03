@@ -51,6 +51,11 @@ header ul{
     border-radius: 5px;
 }
 
+.intro a:hover{
+    background-color: green;
+    opacity: 0.6
+}
+
 .slogan{
     background-color: rgb(138, 181, 162);
     color: rgb(77, 67, 67);
